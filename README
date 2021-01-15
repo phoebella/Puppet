@@ -1,0 +1,9 @@
+Compilation: 
+premake4/make combination
+execute on command line using  ./a3 puppet.lua
+wrintten in xcode
+run on gl38.student.cs 
+
+Manual:
+didn't do undo/redo
+didn't do any requirement under reset
